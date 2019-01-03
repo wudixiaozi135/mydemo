@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AccordionTitleSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" states="unfold,fold" >
+	<e:Image id="bg" source="ui_accordion_json.menu_bg" width.fold="252" height.fold="73"/>
+	<e:Label id="labelDisplay" size="30" fontFamily="Tahoma" textColor="0xFFFFFF" verticalAlign="middle" textAlign="center" horizontalCenter="0" strokeColor="0x9f6520" stroke="2" text="标题" touchEnabled.fold="false" y.fold="22" y="22"/>
+	<e:Image source="ui_accordion_json.arrow_down" source.fold="ui_accordion_json.arrow_up" touchEnabled.fold="false" y="30" x="211"/>
+</e:Skin>

@@ -1,0 +1,27 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/promise/promise.js",
+		"libs/modules/game/game.js"
+	],
+	"game": [
+		"bin-debug/map/GameScene.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/ImgTxtGroup.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/Platform.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/GameConfig.js",
+		"bin-debug/map/MapTile.js",
+		"bin-debug/map/MapTileCanvas.js",
+		"bin-debug/map/SceneMapManager.js",
+		"bin-debug/ui/Accordion.js",
+		"bin-debug/ui/AccordionChildItem.js",
+		"bin-debug/ui/TabSwitch.js"
+	]
+}

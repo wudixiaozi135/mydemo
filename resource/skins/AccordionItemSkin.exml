@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AccordionItemSkin" xmlns:e="http://ns.egret.com/eui"  states="up,down"  width="251" height="78">
+	<e:Image source="ui_accordion_json.item_up" source.down="ui_accordion_json.item_down"/>
+	<e:Label id="labelDisplay" size="24" fontFamily="Tahoma" verticalAlign="middle" textAlign="center" horizontalCenter="0" verticalCenter="0" strokeColor="0xfcf1d5" stroke="2" text="项目一" textColor="0xae722a" bold="true"/>
+</e:Skin>
